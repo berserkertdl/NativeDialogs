@@ -3,6 +3,7 @@
 	  <classpath path=".ant-contrib.jar"/>
 	</taskdef>
 	<!-- Load variables -->
+	<property file="../../.properties"/>
 	<property file="build.properties"/>
 
 	<!-- Clean binaries folder -->
