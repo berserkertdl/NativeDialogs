@@ -7,3 +7,6 @@
 /Binaries/iOS/TSAlertViewCancelButtonBackground.png
 /Binaries/iOS/TSAlertViewMessageListViewShadow.png
 /IOS/NativeDialogs/build/
+
+/IOS/NativeDialogs/NativeDialogs.xcodeproj/project.xcworkspace
+/IOS/NativeDialogs/NativeDialogs.xcodeproj/xcuserdata
